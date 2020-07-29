@@ -1,0 +1,10 @@
+.navbar-nav.navbar-center { 
+    position: absolute; 
+    left: 50%; 
+    transform: translatex(-50%); 
+    padding-top: 23px;
+    padding-bottom: 23px;
+    color: yellow;
+    text-decoration-color: white;
+    
+} 

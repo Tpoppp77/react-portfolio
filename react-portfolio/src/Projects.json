@@ -1,0 +1,46 @@
+[
+    {
+        "id": "1",
+        "name": "Brewery Locator",
+        "image":"./images/mugs-reverse.png",
+        "github": "https://github.com/j-favorito/Project-1",
+        "deployed":"https://j-favorito.github.io/Project-1/"
+      },
+    {
+      "id": "2",
+      "name": "House Hunter Real Estate App",
+      "image":"./images/architecture-1477041_960_720.webp",
+      "github": "https://github.com/dwashburn8/House-Hunter-App",
+      "deployed": "https://vast-bayou-08421.herokuapp.com/login"
+      
+    },
+    {
+        "id": "3",
+        "name": "Employee-Directory",
+        "image": "./images/directory.jpg",
+        "github": "https://github.com/Tpoppp77/employee-directory",
+        "deployed":"https://tpoppp77.github.io/employee-directory/"
+      },
+      {
+        "id": "4",
+        "name": "RushMe-ReadMe",
+        "image":"./images/readMe.png",
+        "github": "https://github.com/Tpoppp77/RushMe-ReadMe",
+        "deployed":""
+      },
+        {
+          "id": "5",
+          "name": "Funky-Password",
+          "image": "./images/Funny-Password-1030x360.png",
+          "github": "https://github.com/Tpoppp77/funky-password",
+          "deployed":"https://tpoppp77.github.io/funky-password/"
+        },
+        {
+          "id": "6",
+          "name": "Reverse-Engineering-Code",
+          "image": "./images/traintracks.jpg",
+          "github": "",
+          "deployed":"https://docs.google.com/document/d/e/2PACX-1vRmN5fXzjkk8DbXVOb4CLEvYn4iGyWIlVGyhibhr3Womb_vgdbmihGJPZV3hbnIoPIpDQt3ziZs9bwH/pub"
+        }
+
+]

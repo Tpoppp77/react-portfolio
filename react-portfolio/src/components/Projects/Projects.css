@@ -1,0 +1,42 @@
+.imgWrap {
+    position: relative;
+    height: 300px;
+    width: 420px;
+    margin-left: 0;
+    margin-right: 0;
+    color: black;
+  }
+  
+  .imgLink {
+     position: absolute;
+    top: 5%;
+    bottom: 5%;
+    left: 10%;
+    right: 10%; 
+    border-radius: 10px;
+    background: white;
+    color: black;
+    visibility: hidden;
+    opacity: 0;
+  }
+
+  .imgButton {
+      
+    top: 50%;
+    left: 50%;
+    padding: 20px;
+    margin: -70px 0 0 -120px;
+    color: blue;
+    visibility: hidden;
+    opacity: 0; 
+  }
+  
+  .imgWrap:hover .imgLink {
+    visibility: visible;
+    opacity: 1;
+  }
+
+  .imgWrap:hover .imgButton {
+    visibility: visible;
+    opacity: 1;
+  }
