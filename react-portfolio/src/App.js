@@ -7,7 +7,7 @@ import Wrapper from "./Wrapper"
 
 import Contact from "./components/Contact/Contact"
 import Footer from "./components/Footer/Footer"
-import { BrowserRouter as Router, Route } from "react-router-dom"
+import { HashRouter as Router, Route } from "react-router-dom"
 
 function App() {
   return (

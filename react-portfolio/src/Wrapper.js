@@ -13,7 +13,7 @@ class Wrapper extends React.Component {
             <>
                 <div className="header">
                     <div className="overlay">
-                        <img src="./images/sunset.jpg" height="900" width="1900"
+                        <img src={process.env.PUBLIC_URL + "/images/sunset.jpg"} height="900" width="1900"
                             alt="background"></img>
                     </div>
                     <div className="container h-100">

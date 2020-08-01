@@ -11,7 +11,7 @@ const About = () => {
                             <br></br>
                             <br></br>
                             <br></br>
-                            <img src="./images/IMG_4496.png" height="600" width="400" alt="ME"></img>
+                            <img src={process.env.PUBLIC_URL +"/images/IMG_4496.png"} height="600" width="400" alt="ME"></img>
                         </div>
 
                         <div className="card-body text-center">

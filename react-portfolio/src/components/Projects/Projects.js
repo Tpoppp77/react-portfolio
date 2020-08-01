@@ -10,7 +10,7 @@ const Projects = (props) => {
 
 
             <div className="col-sm-10 col-md-12 mb-3 col-lg-4 imgWrap">
-                <img className="rounded" height="300px" width="350px" src={props.image} alt={props.name}></img>
+                <img className="rounded" height="300px" width="350px" src={process.env.PUBLIC_URL + props.image} alt={props.name}></img>
                 <div className="imgLink">
                     <br></br>
                     <br></br>

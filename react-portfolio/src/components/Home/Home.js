@@ -7,7 +7,7 @@ const Home = () => {
     return (
         <div id="home" className="header">
             <div className="overlay">
-                <img src="./images/grand-canyon.jpg"  height="900" width="1900" alt="Arizona Desert"></img>
+                <img src={process.env.PUBLIC_URL + "/images/grand-canyon.jpg"}  height="900" width="1900" alt="grand canyon"></img>
             </div>
             <div className="container h-100">
                 <div className="d-flex h-100 text-center align-items-center">
