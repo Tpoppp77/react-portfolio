@@ -8,7 +8,7 @@ const Contact = () => {
             <div className="header">
                 <div className="overlay"></div>
 
-                <img src={process.env.PUBLIC_URL +"/images/contact.jpg"} alt="Mail, Phone, @"></img>
+                <img src={process.env.PUBLIC_URL +"/assets/images/contact.jpg"} alt="Mail, Phone, @"></img>
 
                 <div className="container h-100">
                     <div className="d-flex h-100 text-center align-items-center">
